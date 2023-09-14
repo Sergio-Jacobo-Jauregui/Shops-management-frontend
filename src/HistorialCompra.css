@@ -1,0 +1,17 @@
+.Tabla-larga {
+  min-height: 200px;
+  max-height: 900px;
+}
+
+.Form {
+  margin: 30px 0px ;
+}
+
+.Form p {
+ margin: 8px 0px;
+}
+
+.Contenido {
+  margin: 0px 20px;
+}
+
